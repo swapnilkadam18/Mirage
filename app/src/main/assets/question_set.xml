@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <set>
+        <question>Cheerful</question>
+        <answer_set>
+            <option>happy</option>
+            <option>happy</option>
+            <option>happy</option>
+        </answer_set>
+    </set>
+    <set>
+        <question>cute</question>
+        <answer_set>
+            <option>happy</option>
+            <option>happy</option>
+            <option>happy</option>
+        </answer_set>
+    </set>
+    <set>
+        <question>humble</question>
+        <answer_set>
+            <option>happy</option>
+            <option>happy</option>
+            <option>happy</option>
+        </answer_set>
+    </set>
+    <set>
+        <question>caring</question>
+        <answer_set>
+            <option>happy</option>
+            <option>happy</option>
+            <option>happy</option>
+        </answer_set>
+    </set>
+    <set>
+        <question>loving</question>
+        <answer_set>
+            <option>happy</option>
+            <option>happy</option>
+            <option>happy</option>
+        </answer_set>
+    </set>
+</root>
